@@ -131,3 +131,22 @@ section.module.parallax-5 {
         translate: 0 0;
     }
 }
+
+@media screen and (max-width: 500px) {
+
+    .title-4 {
+        line-height: 45px;
+    }
+
+    span {
+        font-size: 38px;
+    }
+
+    section.module.parallax-1 {
+        background-position: 65% 65%;
+    }
+
+    section.module.parallax-2 {
+        background-position: 35% 35%;
+    }
+}
