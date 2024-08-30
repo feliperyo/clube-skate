@@ -1,12 +1,10 @@
 <h1 align="center">
-  Skate World</h1>
+  Clube do Skate</h1>
 <br>
-<h3 align="center">Estudo de animações com CSS e JavaScript.</h3>
-<h4 align="center">Projeto desenvolvido com HTML, CSS e JavaScript.</h4>
+<h4 align="center">Projeto responsivo desenvolvido com HTML, CSS e JavaScript para o Clube do Portfólio do Dev Club.</h4>
 <p align="center">Nota: Vencedor do Concurso de Projetos DevClub de Abril com 64,45% dos votos.</p>
 <br>
 <br>
-
 <div align="center">
   <img width="800px" src="https://github.com/feliperyo/skate-world/blob/master/assets/mockup.png?raw=true"/>
 </div>
